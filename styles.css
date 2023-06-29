@@ -2,29 +2,17 @@
 :root{
     --cor-de-fundo: #EBECEE;
     --branco:#ffffff;
-    --fonte-principal:"Poppins".
-    --amarelo: #fecd2f
-    
+    --amarelo:#fecd2f;
+   
 
 }
 
 body{
     background-color: var(--cor-de-fundo);
-    background-color: var(--cor-de-fundo);
-    font-family: var(--font-principal);
-    font-size:16px;
-    font-weight: 400;
 }
-
-
 
 h1{
     background-color: white;
 }
-.lista__menu{
-    display: none;
-    .container__botao:checked~.lista__menu {
-        display: block;
-      }
 
 }

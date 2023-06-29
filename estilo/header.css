@@ -40,6 +40,9 @@ display: none;
     font-weight: 700;
     color: var(--amarelo);
 }
+.lista__menu-item{
+    padding: 1em;
+}
 
 .conteiner__botao:checked~.lista__menu{
     display: block;

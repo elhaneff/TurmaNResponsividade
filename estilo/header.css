@@ -18,7 +18,18 @@
 
 .contaner {
   display: flex;
-  align-items: center;
+  justify-content: space-between;
+}
+
+conteiner__imagem{
+  padding: 1em;
+}
+.lista__menu{
+  display: none;
+  background-color: var(--branco);
+  position: absolute;
+  top:100%;
+  width: 60vw;
 }
 
 .container__botao {

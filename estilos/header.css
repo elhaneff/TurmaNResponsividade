@@ -71,3 +71,6 @@ conteiner__imagem{
 .container__botao:checked~.lista__menu {
   display: block;
 }
+.container__titulo{
+  display: none;
+}

@@ -18,19 +18,7 @@
 
 .contaner {
   display: flex;
-  justify-content: space-between;
   align-items: center;
-}
-
-conteiner__imagem{
-  padding: 1em;
-}
-.lista__menu{
-  display: none;
-  background-color: var(--branco);
-  position: absolute;
-  top:100%;
-  width: 60vw;
 }
 
 .container__botao {
@@ -70,20 +58,4 @@ conteiner__imagem{
 
 .container__botao:checked~.lista__menu {
   display: block;
-}
-.container__titulo{
-  display: none;
-}
-@media screen and (min-width:1024px) {
-    
-  .cabecalho__menu{
-      display: none;
-  }
-  .conteiner__favorito{
-      display: none;
-  }
-  .conteiner__titulo{
-      display: block;
-  }
-
 }

@@ -9,7 +9,7 @@
 
 .cabecalho__menu {
   display: inline-block;
-  background-image: url(../img/Menu.svg);
+  background-image: url(img/Menu.svg);
   background-repeat: no-repeat;
   background-position: center;  
   width: 24px;

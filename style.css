@@ -5,18 +5,15 @@
     --branco: #FFF;
     --amarelo: #fecd2f;
     --roxo: #C75EEB;      
-    --fonte-roboto: 'Roboto', sans-serif;;
+    --fonte-roboto: 'Roboto', sans-serif;
     --fonte-principal: 'Poppins', sans-serif; 
-}
-
+    --fonte-secundaria:  'Josefin Sans', sans-serif;
+    --fonte-secundaria-normal: 400;
+    --fonte-secundaria-bold: 700;
+  }
+    
 body{
-    background-color: var(--cor-de-fundo);
-    font-family: var(--fonte-principal);
+    background-color: var(--cor-de-fundo);    
     font-size: 16px;
     font-weight: 400;
-
-}
-
-h1{
-    background-color: white;
 }

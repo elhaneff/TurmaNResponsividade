@@ -1,19 +1,15 @@
 @import url(styles/header.css);
 
-:root{
+:root {
     --cor-de-fundo: #EBECEE;
-    --branco: #FFF;
+    --branco: #ffffff;
     --amarelo: #fecd2f;
-    --roxo: #C75EEB;      
-    --fonte-roboto: 'Roboto', sans-serif;
-    --fonte-principal: 'Poppins', sans-serif; 
-    --fonte-secundaria:  'Josefin Sans', sans-serif;
-    --fonte-secundaria-normal: 400;
-    --fonte-secundaria-bold: 700;
-  }
-    
-body{
-    background-color: var(--cor-de-fundo);    
-    font-size: 16px;
-    font-weight: 400;
+    --roxo: #c75eeb;
+    --preto:#000000; 
+    --fonte-principal: "Poppins";
+    --fonte-secundaria: "Josefin Sans";
+}
+
+body {
+    background-color: pink;
 }
